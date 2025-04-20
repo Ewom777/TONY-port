@@ -7,7 +7,7 @@
 
 body {
   /* background-color: red; */
-  background-color: rgba(205, 218, 221, 0.466);
+  background-color: rgb(248, 254, 255);
 }
 
 .topper {
@@ -386,7 +386,7 @@ footer {
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .container {
     margin: 0 11%;
   }
